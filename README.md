@@ -11,3 +11,17 @@ dashboards produced. For the analysis of data from various factories the data ar
 delta lake managed by Databricks. Finally, the visual reports and dashboards are designed
 using the Power BI Desktop tool.
 
+Milestones
+
+Data Analysis and Source Identification
+Design the dimensional model (e.g., star schema, snowflake schema) based on business
+requirements and data analysis.
+Define data transformations and ETL processes to extract, transform, and load data into
+the data warehouse.
+Develop ETL workflows and scripts to extract data from source systems, apply
+transformations, and load data into the data warehouse.
+Develop and deploy data warehouse components such as tables, indexes, partitions, and
+views.
+Creation of the data lake and the spark scripts.
+Create the power BI file, reports and visualisations
+preparation of presentation with analysis and reflections
