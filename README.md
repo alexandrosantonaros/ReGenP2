@@ -13,15 +13,15 @@ using the Power BI Desktop tool.
 
 Milestones
 
-Data Analysis and Source Identification
-Design the dimensional model (e.g., star schema, snowflake schema) based on business
+1.Data Analysis and Source Identification
+2.Design the dimensional model (e.g., star schema, snowflake schema) based on business 
 requirements and data analysis.
-Define data transformations and ETL processes to extract, transform, and load data into
+3.Define data transformations and ETL processes to extract, transform, and load data into
 the data warehouse.
-Develop ETL workflows and scripts to extract data from source systems, apply
+4.Develop ETL workflows and scripts to extract data from source systems, apply
 transformations, and load data into the data warehouse.
-Develop and deploy data warehouse components such as tables, indexes, partitions, and
+5.Develop and deploy data warehouse components such as tables, indexes, partitions, and
 views.
-Creation of the data lake and the spark scripts.
-Create the power BI file, reports and visualisations
-preparation of presentation with analysis and reflections
+6.Creation of the data lake and the spark scripts.
+7.Create the power BI file, reports and visualisations
+8.Preparation of presentation with analysis and reflections
